@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410316576294",
+    "project_id": "music-app-ishay",
+    "storage_bucket": "music-app-ishay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410316576294:android:f48c6dd73a801c352278e7",
+        "android_client_info": {
+          "package_name": "com.example.musicappishay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410316576294-b554388amlmnje0psfg5bkr37mtb9lsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY3RibcQckaxJjqtcS1cdP7ujpj0m9ZcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410316576294-b554388amlmnje0psfg5bkr37mtb9lsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

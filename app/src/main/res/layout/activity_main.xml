@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="Manage Posts"
+        android:textSize="25sp"
+        android:background="#333333"
+        android:textColor="#ffffff"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="welcome to the instrument store!"
+        android:textSize="25sp"
+        />
+
+
+
+    <Button
+        android:id="@+id/btnInstruments"
+        android:layout_width="match_parent"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:background="#c1112e"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="enter as a guest" />
+
+
+
+
+</LinearLayout>
